@@ -1,5 +1,9 @@
 {
   "name": "t-flight-translator",
+  "version": "0.0.0",
+  "authors": [
+    "Ganesh Ratnaparkhi <ganeshr43@gmail.com>"
+  ],
   "description": "has all the translator component used in flight search to book flow. Translator components are used to translate view component response into api component compatible requests",
   "main": "t-flight-translator.html",
   "dependencies": {
